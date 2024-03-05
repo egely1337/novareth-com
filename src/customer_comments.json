@@ -1,0 +1,52 @@
+[
+    {
+        "author" : "Ali K.",
+        "description" : "Bu sistem harika! Başta güvenmemiştim, dolandırıcı sanmıştım ama fiyat meblasını da uygun olmasıyla bu işe giriştim. Hiç pişman değilim. Teşekkürler Novareth!",
+        "starCount": 5
+    },
+    {
+        "author" : "Ayşe Y.",
+        "description" : "Novareth'i kullanarak kendi web sitemi oluşturdum. Gerçekten etkileyici ve kullanımı çok kolay!",
+        "starCount": 5
+    },
+    {
+        "author" : "Mehmet K.",
+        "description" : "Novareth sayesinde hızla bir e-ticaret sitesi kurabildim. Hem pratik hem de profesyonel bir çözüm.",
+        "starCount": 5
+    },
+    {
+        "author" : "Zeynep A.",
+        "description" : "Novareth'in destek ekibi çok ilgili ve hızlı çözümler sunuyor. Teşekkür ederim! ",
+        "starCount": 5
+    },
+    {
+        "author" : "Burak D.",
+        "description" : "Şablon seçenekleri geniş ve özelleştirme imkanları harika. İşimi kolaylaştırdılar.",
+        "starCount": 5
+    },
+    {
+        "author" : "Aslı G.",
+        "description" : "Novareth, SEO dostu araçlarıyla web sitemin Google'da daha iyi sıralanmasına yardımcı oldu.",
+        "starCount": 5
+    },
+    {
+        "author" : "Emre C.",
+        "description" : "Kullanıcı dostu arayüzü sayesinde hiç kod bilmeden sitemi oluşturdum.",
+        "starCount": 5
+    },
+    {
+        "author" : "Pınar A.",
+        "description" : "Novareth'in sağladığı analitik araçlar, web sitemin performansını izleme konusunda çok işlevsel",
+        "starCount": 5
+    },
+    {
+        "author" : "Melis T.",
+        "description" : "Novareth'in müşteri desteği süper! Her soruma hızlı ve açıklayıcı cevaplar aldım.",
+        "starCount": 5
+    },
+    {
+        "author" : "Ali A.",
+        "description" : "Novareth, mobil uyumlu şablonları sayesinde sitemin her cihazda güzel görünmesini sağlıyor.",
+        "starCount": 5
+    }
+]
