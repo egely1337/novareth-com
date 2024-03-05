@@ -14,9 +14,9 @@ export default function UserComment(props: {
         <span className="mt-4">{props.desc}</span>
         <div className="h-full flex items-end">
           <div className="flex flex-row gap-2 mt-4">
-            {Array.from({length: props.startCount ?? 0}, ((_, index) => index + 1)).map((val) => {
+            {Array.from({length: props.startCount ?? 0}, ((_, index) => index + 1)).map((val, id) => {
               return(
-                <FaStar size={24} className="text-yellow-600"/>
+                <FaStar key={id} size={24} className="text-yellow-600"/>
               )
             })}
           </div>   
